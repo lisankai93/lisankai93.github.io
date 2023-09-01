@@ -1,6 +1,6 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: The spacex's host
-description: contact
+title: The SpaceX's host
+description: Contact me.
 show_downloads: false
