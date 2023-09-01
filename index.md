@@ -4,7 +4,7 @@ layout: default
 
 > I'd like to ride **SpaceX** with you to the moon.
 
-[chat me](chat.spacex.host).
+![Branching](https://img.zcool.cn/community/0148c1554421e60000019ae9bf2097.jpg)
 
 * * *
 
@@ -21,10 +21,6 @@ layout: default
 ```js
 // 7540.
 ```
-
-* * *
-
-![Branching](https://img1.mydrivers.com/img/20200528/s_dad1f1a12a824b109e90ef376cdb6c84.jpg)
 
 * * *
 
